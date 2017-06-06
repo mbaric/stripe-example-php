@@ -18,8 +18,7 @@ require_once('stripe_config.php');
     data-name="BAC"
     data-description="Annual subscription"
     data-image="http://britishairsoftclub.com/wp-content/uploads/2014/05/white-morale1.jpg"
-    data-locale="auto"
-    data-zip-code="true">
+    data-locale="auto">
   </script>
 </form>
 </div>
